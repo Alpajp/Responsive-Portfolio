@@ -1,2 +1,3 @@
-# -Responsive-Portfolio
-second week homework
+# Responsive-Portfolio
+
+My first responsive portfolio
